@@ -1,11 +1,4 @@
-# def digits(num):
-#     counter = 1
-#     digits = 0
-#     while counter <= num:
-#         digits +=1
-#         counter = counter * 10
-#     return digits
-n = 101
+n = 5
 y = 1
 res = 0
 while y <= n:
